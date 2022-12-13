@@ -36,3 +36,110 @@
     transform: rotate(360deg);
   }
 }
+
+.d-flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: center
+}
+.row {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.tile {
+  height: 12px;
+  width: 12px;
+  font-size: 0.5em;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+p {margin:0}
+
+
+.height1  {background-color: #2ff80e}
+.height2  {background-color: #59dd00}
+.height3  {background-color: #69c200}
+.height4  {background-color: #6fa900}
+.height5  {background-color: #6e9000}
+.height6  {background-color: #697900}
+.height7  {background-color: #5f6200}
+.height8  {background-color: #534e05}
+.height9  {background-color: #433a0d}
+.height10 {background-color: #322910}
+.height11 {background-color: #362d16}
+.height12 {background-color: #3a311b}
+.height13 {background-color: #3e3521}
+.height14 {background-color: #423926}
+.height15 {background-color: #453e2c}
+.height16 {background-color: #494232}
+.height17 {background-color: #4d4637}
+.height18 {background-color: #514b3d}
+.height19 {background-color: #554f43}
+.height20 {background-color: #585349}
+.height21 {background-color: #5c584f}
+.height22 {background-color: #605c56}
+.height23 {background-color: #64615c}
+.height24 {background-color: #686662}
+.height25 {background-color: #6b6a69}
+.height26 {background-color: #626673}
+
+.distance0  {background-color: #ff0101}
+.distance1  {background-color: #ff0101}
+.distance2  {background-color: #ff0101}
+.distance3  {background-color: #ff1310}
+.distance4  {background-color: #ff1f1b}
+.distance5  {background-color: #ff2824}
+.distance6  {background-color: #ff2f2c}
+.distance7  {background-color: #ff3633}
+.distance8  {background-color: #ff3d3a}
+.distance9  {background-color: #ff4341}
+.distance10 {background-color: #ff4848}
+.distance11 {background-color: #ff4e4e}
+
+.distance12  {background-color: #ff5855}
+.distance13  {background-color: #ff615b}
+.distance14  {background-color: #ff6962}
+.distance15  {background-color: #ff7169}
+.distance16  {background-color: #ff7970}
+.distance17  {background-color: #ff8177}
+.distance18  {background-color: #ff897e}
+.distance19  {background-color: #ff9085}
+.distance20  {background-color: #ff978d}
+.distance21  {background-color: #ff9f94}
+.distance22  {background-color: #ffa69b}
+.distance23  {background-color: #ffada3}
+.distance24  {background-color: #ffb4aa}
+.distance25  {background-color: #ffbbb1}
+.distance26  {background-color: #ffc2b9}
+.distance27  {background-color: #ffc9c1}
+.distance28  {background-color: #ffcfc8}
+.distance29  {background-color: #ffd6d0}
+.distance30  {background-color: #ffddd8}
+
+.selectedPath {
+  background-color: black;
+  color: white
+}
+
+
+
+
+
+
+.m-2 {
+  margin: 0.5em;
+}
+
+.button {
+  background: dodgerblue;
+  color: white;
+  border-color: dodgerblue;
+  border-radius: 20%;
+}
+ body {
+   background: black
+ }
